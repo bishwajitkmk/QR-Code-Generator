@@ -14,5 +14,5 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/bishwajitkmk/QR-Code-Generator.git
    cd react-qr-generator
